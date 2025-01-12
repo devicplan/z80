@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/devicplan/z80/cardreader/pictures/z1013_cardreader_prototype_f.JPG" title="bms controller">
+  <img src="https://github.com/devicplan/z80/cardreader/pictures/z1013_cardreader_prototype_f.JPG">
 </p>
 # Additional program memory card with SD card
 I no longer use my cassette deck to load and save programs. I use the KCLOAD application with an older Windows 7 laptop. I can use this to load programs in Z80 format into my Z1013 and also write them back to a Z80 file. However, the Z1013 must run at 2 MHz! However, it is somewhat inconvenient to always switch on the laptop and then connect the sound card from the laptop (small jack plug) to the Z1013 (diode socket).
